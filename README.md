@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.codewars.com/users/keven2890" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 <a href="https://codeforces.com/profile/Bob2890" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
-<a href="https://www.mongodb.com/community/forums/u/ibrahim_abdul_wahab_mohammed/preferences/account" target="blank"><img align="center" src="https://www.mongodb.com/community/forums/u/ibrahim_abdul_wahab_mohammed"></a>
+<a href="https://www.mongodb.com/community/forums/u/ibrahim_abdul_wahab_mohammed" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
